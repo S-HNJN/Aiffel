@@ -1,2 +1,7 @@
 *.csv
 *.tsv
+*.geojson
+*.xlsx
+Part1_RFM_실습용_260204.ipynb
+Part2_Clustering_실습용_260204.ipynb
+Part3_Churn_Prediction_실습용.ipynb
